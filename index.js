@@ -9,4 +9,4 @@ httpProxy
   })
   .listen(3000);
 
-console.log('Proxying on 3000');
+console.log('Proxying on 3000!');
